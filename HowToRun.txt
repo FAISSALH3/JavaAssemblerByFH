@@ -1,0 +1,4 @@
+input the file directory in "RunAssembler" class
+here : String FileToAssemble = args[0] ; 
+by example :
+String FileToAssemble = specify the directory by example: "C:\\Users\\lenovo\\Desktop\\nand2tetris\\projects\\04\\Mult.asm";
